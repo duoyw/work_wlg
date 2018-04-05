@@ -2,6 +2,9 @@ obj/
 bin/
 exe/
 List/
-*.wsdt
-*.dep
+*.hex
+*.out
+*.map
 *.dbgdt
+*.dep
+*.wsdt
