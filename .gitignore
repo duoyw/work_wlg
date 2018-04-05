@@ -2,3 +2,6 @@ obj/
 bin/
 exe/
 List/
+*.wsdt
+*.dep
+*.dbgdt
